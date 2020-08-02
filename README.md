@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi 👋, I'm Isti</h1>
+### A young computer enthusiast from Hungary 🇭🇺
 
-<!--
-**isti03/isti03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [my dotfiles](https://github.com/isti03/dotfiles/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python** at school and **Linux** at home
+
+- 👯 I’m looking to collaborate on **any open-source project**
+
+- ❤️ Interests
+  - Web Development
+  - Linux and System Administration
+  - Online Privacy and Computer Security
+  - Open-source, cross-platform app development
+
+- ⚡ Skills: 
+  - Python
+  - HTML / CSS
+  - PHP
