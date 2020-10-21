@@ -1,17 +1,20 @@
-# Hi 👋, I'm Isti</h1>
-### A young computer enthusiast from Hungary 🇭🇺
+# István Elges
 
-<hr>
+**A young computer enthusiast from Hungary** <br>
+*In the beginning of a never-ending journey*
 
-- 🌱 I’m currently learning **Python** at school and **Linux** at home
+**Interests**
+- Web Development
+- Linux and System Administration
+- DevOps and Automation
+- Online Privacy and Computer Security
+- Open-source, cross-platform app development
 
-- ❤️ Interests
-  - Web Development
-  - Linux and System Administration
-  - Online Privacy and Computer Security
-  - Open-source, cross-platform app development
+**Learning**
+- Python
+- HTML / CSS
+- Linux
 
-- ⚡ Skills: 
-  - Python
-  - HTML / CSS
-  - PHP
+**Links**
+- [gists](https://gist.github.com/isti03)
+- [website](http://www.isti.webtelek.hu)
