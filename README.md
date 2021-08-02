@@ -9,11 +9,12 @@
 - DevOps and Automation
 - Online Privacy and Computer Security
 - Open-source, cross-platform app development
+- Software [i18n and L10n](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 **Learning**
 - Python
 - HTML / CSS
-- Linux
+- Linux / Unix
 
 **Links**
 - [gists](https://gist.github.com/isti03)
